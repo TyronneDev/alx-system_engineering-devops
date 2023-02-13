@@ -4,3 +4,4 @@
 3- display content of passwd and hosts
 4- Display last 10 lines of file
 5- Display first 10 lines of file
+6- Display the third line of the file iacta
