@@ -8,3 +8,4 @@
 7- Create file with content
 8- Write reults to file
 9- Duplicate last line
+10- Delete all .js files from directory and sub-directories
