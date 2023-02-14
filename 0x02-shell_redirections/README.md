@@ -19,3 +19,4 @@
 Display all lines of a file starting with a letter
 19- Replace char from input
 20- Remove c and C from input
+21- Reverse input
