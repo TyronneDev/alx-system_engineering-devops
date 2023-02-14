@@ -18,3 +18,4 @@
 17- Display all lines in file that don not contain the pattern bin
 Display all lines of a file starting with a letter
 19- Replace char from input
+20- Remove c and C from input
