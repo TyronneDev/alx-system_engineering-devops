@@ -6,3 +6,4 @@
 5- Display first 10 lines of file
 6- Display the third line of the file iacta
 7- Create file with content
+8- Write reults to file
