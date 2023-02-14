@@ -9,3 +9,4 @@
 8- Write reults to file
 9- Duplicate last line
 10- Delete all .js files from directory and sub-directories
+11- Count number of directories and sub-directories
