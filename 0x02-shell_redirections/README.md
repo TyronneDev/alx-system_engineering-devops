@@ -20,3 +20,4 @@ Display all lines of a file starting with a letter
 19- Replace char from input
 20- Remove c and C from input
 21- Reverse input
+22- Display all users and their home directories sorted by users
