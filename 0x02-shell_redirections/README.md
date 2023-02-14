@@ -13,3 +13,4 @@
 12- Display 10 newest files in directory
 13- Print words that appear only once from a script
 14- Display lines containing the pattern root
+15- Display lines containing the pattern bin
