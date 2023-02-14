@@ -17,3 +17,4 @@
 16- Display lines containing patttern root and 3 lines after them
 17- Display all lines in file that don not contain the pattern bin
 Display all lines of a file starting with a letter
+19- Replace char from input
